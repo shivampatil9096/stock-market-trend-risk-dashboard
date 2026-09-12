@@ -1,0 +1,16 @@
+company_id,ticker,company_name,sector,asset_class
+1,AAPL,Apple Inc.,Technology,Equity
+2,MSFT,Microsoft Corp.,Technology,Equity
+3,JNJ,Johnson & Johnson,Healthcare,Equity
+4,PFE,Pfizer Inc.,Healthcare,Equity
+5,JPM,JPMorgan Chase & Co.,Financials,Equity
+6,GS,Goldman Sachs Group,Financials,Equity
+7,XOM,Exxon Mobil Corp.,Energy,Equity
+8,CVX,Chevron Corp.,Energy,Equity
+9,PG,Procter & Gamble,Consumer Goods,Equity
+10,KO,Coca-Cola Co.,Consumer Goods,Equity
+11,SPY,SPDR S&P 500 ETF,Diversified,ETF
+12,AGG,iShares Core US Bond ETF,Fixed Income,Bond
+13,GLD,SPDR Gold Shares,Commodity,Commodity
+14,USO,United States Oil Fund,Commodity,Commodity
+15,UUP,Invesco DB US Dollar Index,Currency,Currency
