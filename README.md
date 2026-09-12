@@ -10,7 +10,7 @@ an interactive dashboard and a regression-based forecasting model.
 [View the interactive Power BI dashboard here](https://app.powerbi.com/groups/me/reports/494fe462-6490-4169-9d73-651ac8399241/99fb18e2910abe6144e0?experience=power-bi)
 
 ## Dashboard Preview
-![Dashboard Overview](powerbi/overall.png)
+![Dashboard Overview](overall.png)
 
 
 ## What's in this repo
@@ -37,5 +37,5 @@ an interactive dashboard and a regression-based forecasting model.
    slicers for real-time filtering.
 
 ## Explore the code
-- [SQL queries](sql/stock_market_analysis.sql)
-- [Excel workbook](excel/Stock_Market_Analysis.xlsx)
+- [SQL queries](stock_market_analysis.sql)
+- [Excel workbook](Stock_Market_Analysis.xlsx)
