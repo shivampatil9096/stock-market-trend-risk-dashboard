@@ -1,4 +1,5 @@
 # Stock Market Trend & Risk Analysis Dashboard
+![banner](github_banner_hd.png)
 
 SQL · Power BI · Excel
 
